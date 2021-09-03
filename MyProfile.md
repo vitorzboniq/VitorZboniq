@@ -1,6 +1,6 @@
 - Hi, I’m @vitorzboniq
-- I’m work in the information technology sector at COAMO Agroindustrial Cooperative
+- I’m currently working on Service Desk Operator at COAMO Agroindustrial Cooperative
 - I'm studying Systems Analysis and Development at Unicesumar
 - I am currently learning Java OOP and Node Javascript, and I have knowledge in C
-- I'm working as a Service Desk Operator and looking to collaborate with Systems Development
-- Contact: vitorzboniq@gmail.com
+- I’m looking to collaborate on with Back End Systems Development
+- Contact me: vitorzboniq@gmail.com
