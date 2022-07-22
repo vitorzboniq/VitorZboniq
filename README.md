@@ -1,4 +1,4 @@
-➤➤ Maior contato com: JavaScript | Node JS | Postgres SQL | C 
+➤➤ Maior contato com: JavaScript | Node JS | Postgres SQL | JAVA | C 
 
 ✔ Participo do Curso de Formação de Analistas da COAMO em parceria com a UTFPR, além de estar cursando o 3° período de Tecnologia em Analise e Desenvolvimento de Sistemas na Unicesumar.
 
